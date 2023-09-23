@@ -16,9 +16,6 @@ Our implementation is based off of a combination of Gatys' [A Neural Algorithm o
 ### Sponsorship
 Please consider sponsoring my work on this project!
 
-### License
-Copyright (c) 2016 Logan Engstrom. Contact me for commercial use (or rather any use that is not academic research) (email: engstrom at my university's domain dot edu). Free for research use, as long as proper attribution is given and this copyright notice is retained.
-
 ## Video Stylization 
 Here we transformed every frame in a video, then combined the results. [Click to go to the full demo on YouTube!](https://www.youtube.com/watch?v=xVJwwWQlQ1o) The style here is Udnie, as above.
 <div align = 'center'>
